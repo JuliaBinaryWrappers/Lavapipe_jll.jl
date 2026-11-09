@@ -6,7 +6,7 @@ os = "windows"
 
     [[Lavapipe.download]]
     sha256 = "fb6f303c6e8f9e3bc41b24843e17cfa3105cfe8e95c826d083f51aad978f9717"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.x86_64-w64-mingw32-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "aarch64"
 git-tree-sha1 = "b95f2c12758d2a6388998184f29cd8c7578f27e4"
@@ -14,91 +14,91 @@ os = "macos"
 
     [[Lavapipe.download]]
     sha256 = "9f4ede7f774f5f3fc63400ad65fdff9e3640b7e99f29666e7eebe7ddcb1fa839"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.aarch64-apple-darwin.tar.gz"
 [[Lavapipe]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "33ddca5a9243102a004012d572c871c13fd612b5"
+git-tree-sha1 = "3dc82140a58a9e4122c39a1517b20913f67b5a3d"
 libc = "glibc"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "40445d4c288146a1148dd55ae67be26b89c4e19fd586886611652127152bf00a"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8980751f9234c0f9e8af97385944715f4676b2989ecaef0d206d09de684d6cc8"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.aarch64-linux-gnu-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e96758e609fe5348fe186b2be23826be4f6f6523"
+git-tree-sha1 = "ffc4741a62cc0365ff05aeff4f4550dc5dbeb3e4"
 libc = "musl"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "cfc7ea5f035ffa758c44e972f85bdac251e83a3f45dbb155107732dd88ac75d8"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "d1064b413af1bd23c87dca1a681ec19a5a3a25c7158e48bf814b54e2a24577fb"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.aarch64-linux-musl-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "53305326651c5159159612431171fc22be3ce281"
+git-tree-sha1 = "bad923e8272db43a9eb1458b67e4a4634fe4e244"
 libc = "glibc"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "10171d5fa9a2c2450319107f02f03ff7df8c30555ac2cd5133ffc7de6c53c9e1"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "7c6b17c52ba8c15c070e7addfe7c0a1907e99f2bf93d20a1bb6b93f5d10e08ef"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8354a71b5c0c3a89feab9515aefc7c1a935d3dcb"
+git-tree-sha1 = "51473304d936eb6d13a111558da8c46ba333129a"
 libc = "musl"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "ea189e542feee1fcfc58f4fbe36dbda6ef4e36b5bd28024a77702f484b7089f2"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "27facae4d4504d78faea5f3d5701f0041ca871727d0cece871bf0eaa818be428"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "363c911ae97b180afe067f8d7c64d18ddec5ad24"
+git-tree-sha1 = "6062dd131a8f3512ac3de026906b65521a64c21e"
 libc = "glibc"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "f5a071964e1ab526b3a8a1fc54e6721c4ab3ed8b7f0736c833079ea48940dd30"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "fb426919fcaafa67aa47d7249fd6e4a61e3425abaa3877b8065e2078cc59de91"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c4cc618b3c7110220be218e3150c4f67cffde791"
+git-tree-sha1 = "51712a32b9d0d548a436038a728621b8485d5315"
 libc = "musl"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "701ff6649b61ca86c8575882923ed02304dbb72a123d58a57c62aebbdf9798a0"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "97c13889ae7e92216b8f639bfef3ee46cb44b739020d2dce971d26725bd53213"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22c03e799b6160cc4ef4344dbf13d46a68342aba"
+git-tree-sha1 = "6b63ddff21b27b7acc92cae5ef399cf8fdddeb8a"
 libc = "glibc"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "c0ca2160c21831d3368467d09b4cba5f612083024c08936f9abef70a0f578372"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "dfb74b408d9aebba4b92c99c5698d0c6f74083860967486190ace7044fb8938a"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.i686-linux-gnu-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec9b8353a42ac9414a39955078bc4f9539f9a96e"
+git-tree-sha1 = "da1443380e7750e59f51e5c3f5dca6a326d75578"
 libc = "glibc"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "953d46dd2b8e271f2cd8b4f0709f8ed887cef7a43d0ba982aebf1f187eacb8cd"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "2911ce332f5ef4ddc6ebc81e87ff809c5b78821263fd2103d4e1aced18e2a4b0"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "x86_64"
 git-tree-sha1 = "7250139fbcaae371f523201c19dd8fc2b0cbd4da"
@@ -106,24 +106,24 @@ os = "macos"
 
     [[Lavapipe.download]]
     sha256 = "0e31ca77397fc6492a18bf8409e194450923d601e716ed5b221873130e36a6a7"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.x86_64-apple-darwin.tar.gz"
 [[Lavapipe]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf606b7a71ccebfeef829f8f20ada7cef3f3c92d"
+git-tree-sha1 = "5e2334355b95594f21e9fdfc7e2f8f6e15dd2eb6"
 libc = "glibc"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "8d329d1af49b47cdfe1fa1d15e791eba54b5412edbd2c14f8d07c2301670dae5"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ddee47d90670255769bc900abd7293c34f109f7c6234d8cee226b6c279e12a56"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.x86_64-linux-gnu-cxx11.tar.gz"
 [[Lavapipe]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d3fa579e7d14e93767eddb080f76b7432835bf3"
+git-tree-sha1 = "76af04856d8845accc7d5061de526816d0b8c086"
 libc = "musl"
 os = "linux"
 
     [[Lavapipe.download]]
-    sha256 = "c05e61fff03261e4e9080d65378e675fb69d661f2e11f6dc77a95ce18dbacb1a"
-    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.3+0/Lavapipe.v26.2.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "ea956615420895f31aec2ccbf258250c22db169a161d82731084f11c45bf1a0d"
+    url = "https://github.com/JuliaBinaryWrappers/Lavapipe_jll.jl/releases/download/Lavapipe-v26.2.4+0/Lavapipe.v26.2.4.x86_64-linux-musl-cxx11.tar.gz"
